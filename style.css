@@ -1,0 +1,12 @@
+body {
+  background-color: #9ef5c6;
+  background-image: linear-gradient(90deg, #85ffbd 0%, #da7dff 100%);
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 70px;
+  margin-top: 300px;
+  text-shadow: 2px 2px 4px black;
+}
